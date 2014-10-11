@@ -1,6 +1,0 @@
-{
-    "name": "bee",
-    "dependencies": {
-        "reactive": "kg/reactive#0.2.0"
-    }
-}
