@@ -1,0 +1,1 @@
+KISSY.config("modules",{"bee/index":{requires:["./mods/header","./mods/article"]}});
